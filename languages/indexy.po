@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Indexy\n"
+"POT-Creation-Date: 2015-09-13 00:56-0400\n"
+"PO-Revision-Date: 2015-09-13 00:57-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ../classes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: ../languages\n"
+"X-Poedit-SearchPathExcluded-1: ../images\n"
+"X-Poedit-SearchPathExcluded-2: ../style\n"
+
+#: Indexy.php:67
+msgid "Settings"
+msgstr ""
+
+#: Indexy.php:464 Indexy.php:474
+msgid "View definition for"
+msgstr ""
+
+#: Indexy.php:825 Indexy.php:871
+msgid "Glossary"
+msgstr ""
+
+#: Indexy.php:834
+msgid "Synonyms"
+msgstr ""
+
+#: Indexy.php:836
+msgid "Enter one synonym per line. Capitalization doesn't matter."
+msgstr ""
+
+#: Indexy.php:843 Indexy.php:880
+msgid "Highlighting"
+msgstr ""
+
+#: Indexy.php:849
+msgid "Highlight the term and its synonyms in articles"
+msgstr ""
+
+#: Indexy.php:850
+msgid "Highlight only the term in articles"
+msgstr ""
+
+#: Indexy.php:851
+msgid "Do not highlight the term or its synonyms"
+msgstr ""
+
+#: Indexy.php:856
+msgid "Glossary Index"
+msgstr ""
+
+#: Indexy.php:862
+msgid "Show the term and its synonyms in the glossary index"
+msgstr ""
+
+#: Indexy.php:863
+msgid "Show only the term in the glossary index"
+msgstr ""
+
+#: Indexy.php:864
+msgid "Hide the term and its synonyms from the glossary index"
+msgstr ""
+
+#: Indexy.php:884
+msgid "Disable highlighting of glossary terms for this article"
+msgstr ""
+
+#: Indexy.php:936
+msgid "Click to read more..."
+msgstr ""
+
+#: Indexy_Admin_Options.php:25 Indexy_Admin_Options.php:412
+#: Indexy_Admin_Options.php:423 Indexy_Admin_Options.php:424
+msgid "Indexy Settings"
+msgstr ""
+
+#: Indexy_Admin_Options.php:40
+msgid "Posts to highlight"
+msgstr ""
+
+#: Indexy_Admin_Options.php:56
+msgid "Highlighting style"
+msgstr ""
+
+#: Indexy_Admin_Options.php:72
+msgid "Repeated highlighting"
+msgstr ""
+
+#: Indexy_Admin_Options.php:88
+msgid "Show glossary articles as posts"
+msgstr ""
+
+#: Indexy_Admin_Options.php:104
+msgid "Include CSS file"
+msgstr ""
+
+#: Indexy_Admin_Options.php:158
+msgid "Dismiss"
+msgstr ""
+
+#: Indexy_Admin_Options.php:161
+msgid "Support Indexy"
+msgstr ""
+
+#: Indexy_Admin_Options.php:162
+msgid ""
+"Developing Indexy takes time and effort. If you enjoy using the plugin and "
+"find it useful, please consider making a donation to support its development."
+msgstr ""
+
+#: Indexy_Admin_Options.php:170
+msgid "Get Started"
+msgstr ""
+
+#: Indexy_Admin_Options.php:172
+msgid "Doing Thing #1"
+msgstr ""
+
+#: Indexy_Admin_Options.php:173
+msgid "Doing Thing #2"
+msgstr ""
+
+#: Indexy_Admin_Options.php:174
+msgid "Doing Thing #3"
+msgstr ""
+
+#: Indexy_Admin_Options.php:175
+msgid "Doing Thing #4"
+msgstr ""
+
+#: Indexy_Admin_Options.php:179
+msgid "Column 3"
+msgstr ""
+
+#: Indexy_Admin_Options.php:218
+msgid ""
+"Select in which types of posts you'd like glossary terms to be highlighted "
+"automatically."
+msgstr ""
+
+#: Indexy_Admin_Options.php:235
+msgid "Highlight each term once"
+msgstr ""
+
+#: Indexy_Admin_Options.php:238
+msgid "Highlight each term up to"
+msgstr ""
+
+#: Indexy_Admin_Options.php:242
+msgid "time(s)"
+msgstr ""
+
+#: Indexy_Admin_Options.php:247
+msgid "Skip every"
+msgstr ""
+
+#: Indexy_Admin_Options.php:252
+msgid "th occurrence"
+msgstr ""
+
+#: Indexy_Admin_Options.php:255
+msgid "Highlight all occurrences of each term"
+msgstr ""
+
+#: Indexy_Admin_Options.php:257
+msgid "Choose how you would like to handle repeated highlighting of terms."
+msgstr ""
+
+#: Indexy_Admin_Options.php:291 Indexy_Admin_Options.php:308
+msgid "Yes"
+msgstr ""
+
+#: Indexy_Admin_Options.php:294 Indexy_Admin_Options.php:311
+msgid "No"
+msgstr ""
+
+#: Indexy_Admin_Options.php:295
+msgid ""
+"Disable this if your theme's style sheet already includes custom CSS to "
+"style the highlights and other glossary-related elements."
+msgstr ""
+
+#: Indexy_Admin_Options.php:312
+msgid ""
+"If enabled, glossary posts will be displayed on the front page as if they "
+"were a regular post when they're first created."
+msgstr ""
+
+#: Indexy_Admin_Options.php:413
+msgid "Indexy"
+msgstr ""
+
+#: Indexy_Glossary_Index_Widget.php:13
+msgid "A scrollable index of glossary articles."
+msgstr ""
+
+#: Indexy_Glossary_Index_Widget.php:21
+msgid "Indexy: Glossary Index"
+msgstr ""
+
+#: Indexy_Glossary_Index_Widget.php:120 Indexy_Related_Posts_Widget.php:91
+msgid "Title:"
+msgstr ""
+
+#: Indexy_Glossary_Index_Widget.php:139
+msgid "Do not include synonyms"
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:13
+msgid "Displays a list of related posts when viewing a glossary page."
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:21
+msgid "Indexy: Related Posts"
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:84
+msgid ""
+"Please keep in mind that this widget is only displayed when a single "
+"glossary page is shown, and only if there are related posts to show."
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:105
+msgid "Search method:"
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:113
+msgid "Posts tagged with term or synonyms"
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:116
+msgid "Keyword search"
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:124
+msgid "Maximum number of posts to display:"
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:134
+msgid "Note:"
+msgstr ""
+
+#: Indexy_Related_Posts_Widget.php:135
+msgid "set to -1 to display all related posts."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:177 TGM_Plugin_Activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:532 TGM_Plugin_Activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1167 TGM_Plugin_Activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1170 TGM_Plugin_Activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1288 TGM_Plugin_Activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1312 TGM_Plugin_Activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2070 TGM_Plugin_Activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2070 TGM_Plugin_Activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: TGM_Plugin_Activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
